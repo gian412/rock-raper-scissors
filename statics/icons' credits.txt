@@ -1,0 +1,3 @@
+paper.png: <a target="_blank" href="https://icons8.com/icons/set/hand">Hand icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+rock.png: <a target="_blank" href="https://icons8.com/icons/set/hand-rock">Hand Rock icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+scissors.png: <a target="_blank" href="https://icons8.com/icons/set/hand-scissors">Hand Scissors icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
