@@ -4,18 +4,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Rock Paper Scissors Game</title>
-    <link rel="stylesheet" href="./style.css"
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <header><h1>Rock Paper Scissors</h1></header>
 
-    <div class="score-board">
+    <div class="score-board" id="scoreBoard">
       <div id="userLabel" class="badge">user</div>
       <div id="computerLabel" class="badge">comp</div>
       <span id="userScore">0</span>:<span id="computerScore">0</span>
     </div>
 
-    <div class="result">
+    <div class="result" id="result">
       <p>Paper covers rock. You win!</p>
     </div>
 
@@ -31,6 +31,8 @@
       </div>
     </div>
 
-    <p id="actionMessage">Make your move</p>
+    <p id="actionMessage">Make your move.</p>
+
+    <script src="./app.js" charset="utf-8"></script>
   </body>
 </html>
